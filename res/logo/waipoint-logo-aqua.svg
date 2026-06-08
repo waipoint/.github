@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2190a6;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="111.03" y="111.03" width="33.94" height="33.94" transform="translate(-53.02 128) rotate(-45)"/>
+  <path class="cls-1" d="M200,111.03c-4.69,0-8.93,1.9-12,4.97l-60,60-36-36-12,12,36,36h0c6.63,6.63,17.37,6.63,24,0h0s60-60,60-60h12l16.97-16.97h-28.97Z"/>
+  <path class="cls-1" d="M164,116l12-12-36-36h0c-6.63-6.63-17.37-6.63-24,0h0s-60,60-60,60h-12l-16.97,16.97h28.97c4.69,0,8.93-1.9,12-4.97l60-60,36,36Z"/>
+</svg>

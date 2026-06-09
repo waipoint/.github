@@ -6,7 +6,6 @@
 
 ---
 
-
 <p align="center">
   Rust-native, OpenAI-compatible <b>LLM edge gateway</b> you self-host in a single binary.
 </p>
@@ -45,7 +44,7 @@ cargo install waipoint        # or: docker run waipoint/waipoint
 
 <!-- FOOTER START -->
 <p align="center">
-    <img src="res/logo/waipoint-logo-aqua.svg" width="5%" alt="Waipoint Logo">
+    <img src="../res/logo/waipoint-logo-aqua.svg" width="5%" alt="Waipoint Logo">
 </p>
 <p align="center">
     <sub>Copyright © 2025-2026 <a href="https://www.waipoint.io" target="_blank">Waipoint</a>. All Rights Reserved.</sub>

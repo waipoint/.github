@@ -36,9 +36,9 @@ cargo install waipoint        # or: docker run waipoint/waipoint
 
 ## Get involved
 
-- ⭐ **Star** [`waipoint/waipoint`](https://github.com/waipoint/waipoint) and try the quickstart.
-- 💬 **Ask & share** in [Discussions](https://github.com/waipoint/waipoint/discussions).
-- 🐛 **Report issues** on the relevant repo. Security reports: `security@waipoint.io`.
+- **Star** [`waipoint/waipoint`](https://github.com/waipoint/waipoint) and try the quickstart.
+- **Ask & share** in [Discussions](https://github.com/waipoint/waipoint/discussions).
+- **Report issues** on the relevant repo. Security reports: `security@waipoint.io`.
 
 ---
 
